@@ -46,9 +46,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman.svg" width="100%" style="background: #0a0a0a; border-radius: 10px; padding: 10px;">
   </picture>
 </div>
 
