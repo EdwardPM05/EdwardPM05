@@ -5,6 +5,21 @@
   Desarrollador Full Stack apasionado por la creación de experiencias digitales excepcionales. Especializado en desarrollo web moderno y soluciones innovadoras.
 </p>
 
+<p align="center">
+   <a href="mailto:epittman341@gmail.com">epittman341@gmail.com</a> | +51 907 377 938 | 📍 Lima, Perú
+</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/edward-miguel-pittman-medina-81b564274/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/EdwardPM05" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+</div>
+
 ###
 
 <div align="center">
@@ -65,16 +80,32 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg" height="50" alt="office logo" />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/edward-miguel-pittman-medina-81b564274/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/EdwardPM05" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
-</div>
+## 🚀 Proyectos Destacados
+
+**Herramienta CLI para Git & GitHub**
+* Desarrollo de herramienta de interfaz de línea de comandos (CLI) multiplataforma en Node.js.
+* Automatización de extremo a extremo del ciclo de vida de repositorios (inicialización, staging, commits, sincronización).
+* Integración con la API de GitHub para autenticación interactiva y aprovisionamiento en la nube.
+* Configuración de alias contextuales (`actualiza-edward`) para optimizar flujos de trabajo (quick-push).
+
+**SIMATV - Aplicación IPTV**
+* Desarrollo de aplicación IPTV optimizada para Smart TVs y Android TV.
+* Implementación de interfaz (UI/UX) nativa para navegación intuitiva con control remoto (D-pad).
+* Optimización de protocolos de streaming (HLS/DASH) para reducir latencia y tiempos de zapping.
+* Arquitectura de gestión de EPG y carga dinámica de canales en tiempo real.
+
+**SERVIREPUESTOS GOYO - Software de Gestión**
+* Liderazgo en el proceso de digitalización integral y desarrollo de software a medida.
+* Construcción de arquitectura administrativa para control de inventarios, cotizaciones y ventas.
+* Integración de bases de datos relacionales para administración eficiente de clientes, proveedores y créditos.
+* Mantenimiento continuo y escalabilidad del sistema con despliegue de actualizaciones optimizadas.
+
+**RESCUEMAL - App Móvil Nativa**
+* Solución móvil enfocada en rescate animal, alineada con los ODS.
+* Arquitectura híbrida (Kotlin/Java) para alto rendimiento en dispositivos Android.
+* Integración avanzada con Google Maps Platform para geolocalización y trazado de rutas.
+* Gestión de datos en tiempo real mediante Cloud Firestore y Firebase Storage para evidencias fotográficas.
 
 ###
 
