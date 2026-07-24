@@ -29,7 +29,7 @@
 
 Liderando el proceso de digitalización de la empresa: diseño de base de datos, desarrollo web y móvil, y optimización de los flujos operativos del negocio.
 
-<img src="https://img.shields.io/badge/Julio%202025%20--%20Actualidad-0d1117?style=for-the-badge" alt="periodo" />
+<img src="https://img.shields.io/badge/Julio%202026%20--%20Actualidad-0d1117?style=for-the-badge" alt="periodo" />
 <img src="https://img.shields.io/badge/Stack-Supabase%20%7C%20React%20Native%20%7C%20Next.js-0d1117?style=for-the-badge" alt="stack" />
 
 </div>
