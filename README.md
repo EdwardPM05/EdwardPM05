@@ -1,119 +1,102 @@
-<h1 align="center">Hola, soy Edward Pittman 👋</h1>
+<div align="center">
+  <img src="header.svg" alt="Edward Pittman, ingeniero de software" width="100%" />
+</div>
+
 <h3 align="center">Ingeniero de Software | Desarrollador Full Stack</h3>
 
 <p align="center">
-  Desarrollador Full Stack apasionado por la creación de experiencias digitales excepcionales. Especializado en desarrollo web moderno y soluciones innovadoras.
+  Construyo productos digitales de punta a punta — web, móvil y backend — con foco en soluciones prácticas para negocios reales.
 </p>
 
 <p align="center">
-   <a href="mailto:epittman341@gmail.com">epittman341@gmail.com</a> | +51 907 377 938 | 📍 Lima, Perú
-</p>
-
-###
-
-<div align="center">
+  <a href="mailto:epittman341@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/edward-miguel-pittman-medina-81b564274/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portafolio-xi-beige.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">📍 Lima, Perú &nbsp;|&nbsp; +51 907 377 938</p>
 
-<div align="center">
-  <!-- Frontend & Core -->
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
-  
+---
 
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
-  
+## 🛠️ Tecnologías
 
-  <!-- Mobile, Game Dev & Libraries -->
-  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="android studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo" />
-  <img width="12" />
-  <img title="ExoPlayer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="google logo" />
+**Frontend**
 
-  <!-- Tools, IDEs & Others -->
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visual studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="50" alt="excel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg" height="50" alt="office logo" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" height="45" />
+</p>
 
+**Backend & Bases de datos**
 
-## 🚀 Proyectos Destacados
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,py,postgres,mysql,firebase" height="45" />
+</p>
+
+**Móvil & Game Dev**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,unity" height="45" />
+</p>
+
+**Herramientas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,npm" height="45" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+**Nova Smart** — Sistema de gestión de operaciones de campo para HFC/FTTH
+- Módulo completo de inventario/almacén con jerarquía de 4 roles (Almacén General, Subalmacenes, Supervisores, Técnicos).
+- Modelo de datos de movimientos de inventario con actualización virtual basada en confirmaciones.
+- Arquitectura de permisos que separa roles de negocio de la visibilidad de UI por usuario.
+- Backend en Supabase, frontend en React Native.
+
+**GOYO MOTOR'S / Gestor-moto** — Sistema POS para repuestos de motos
+- Lógica de stock FIFO y sistema de crédito acumulativo por cliente.
+- Generación de PDFs (ventas, tickets, reportes de caja, créditos) con logo y layout personalizados.
+- Migración planificada a Supabase con Row Level Security.
+- Stack: Next.js + Firebase/PostgreSQL.
+
+**Ayni.pe** — Marketplace de servicios peruano
+- App con doble rol (cliente/profesional) bajo un mismo UID.
+- Sistema de comisión oculta del 15%, pagos simulados (Yape/Plin) y verificación KYC.
+- Matching por geolocalización.
+- Stack: Expo/React Native + Firebase.
+
+**SIMATV** — Aplicación IPTV para Android TV
+- Reproducción con ExoPlayer/Media3, integración de EPG y navegación optimizada para control remoto.
+- UI premium dorado sobre azul marino, con almacenamiento cifrado (EncryptedSharedPreferences).
+- Stack: Kotlin nativo.
+
+**Consultas Perú** — Herramienta de consulta DNI/RUC
+- API routes serverless, cacheo en Firestore e integración con Factiliza API.
+- Stack: Next.js + Vercel + Firebase.
+
+**RESCUEMAL** — App móvil de rescate animal
+- Arquitectura híbrida Kotlin/Java, integración con Google Maps Platform para geolocalización y trazado de rutas.
+- Datos en tiempo real con Cloud Firestore y evidencias fotográficas en Firebase Storage.
 
 **Herramienta CLI para Git & GitHub**
-* Desarrollo de herramienta de interfaz de línea de comandos (CLI) multiplataforma en Node.js.
-* Automatización de extremo a extremo del ciclo de vida de repositorios (inicialización, staging, commits, sincronización).
-* Integración con la API de GitHub para autenticación interactiva y aprovisionamiento en la nube.
-* Configuración de alias contextuales (`actualiza-edward`) para optimizar flujos de trabajo (quick-push).
+- CLI multiplataforma en Node.js que automatiza todo el ciclo de vida de un repositorio (init, staging, commits, sync).
+- Integración con la API de GitHub para autenticación y aprovisionamiento en la nube.
+- Alias contextuales (`actualiza-edward`) para flujos de quick-push.
 
-**SIMATV - Aplicación IPTV**
-* Desarrollo de aplicación IPTV optimizada para Smart TVs y Android TV.
-* Implementación de interfaz (UI/UX) nativa para navegación intuitiva con control remoto (D-pad).
-* Optimización de protocolos de streaming (HLS/DASH) para reducir latencia y tiempos de zapping.
-* Arquitectura de gestión de EPG y carga dinámica de canales en tiempo real.
+---
 
-**SERVIREPUESTOS GOYO - Software de Gestión**
-* Liderazgo en el proceso de digitalización integral y desarrollo de software a medida.
-* Construcción de arquitectura administrativa para control de inventarios, cotizaciones y ventas.
-* Integración de bases de datos relacionales para administración eficiente de clientes, proveedores y créditos.
-* Mantenimiento continuo y escalabilidad del sistema con despliegue de actualizaciones optimizadas.
-
-**RESCUEMAL - App Móvil Nativa**
-* Solución móvil enfocada en rescate animal, alineada con los ODS.
-* Arquitectura híbrida (Kotlin/Java) para alto rendimiento en dispositivos Android.
-* Integración avanzada con Google Maps Platform para geolocalización y trazado de rutas.
-* Gestión de datos en tiempo real mediante Cloud Firestore y Firebase Storage para evidencias fotográficas.
-
-###
+## 📊 Actividad
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EdwardPM05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman-contribution-graph-dark.svg">
@@ -121,4 +104,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdwardPM05/EdwardPM05/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<div align="center">
+  <br />
+  <sub>Estudiante de Ingeniería de Software · Universidad Autónoma del Perú</sub>
+</div>
