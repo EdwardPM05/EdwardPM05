@@ -2,19 +2,23 @@
   <img src="header.svg" alt="Edward Pittman, ingeniero de software" width="100%" />
 </div>
 
+<br />
+
 <p align="center">
   <a href="mailto:epittman341@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/edward-miguel-pittman-medina-81b564274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
   </a>
   <a href="https://portafolio-xi-beige.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/-Portafolio-0d1117?style=flat-square&logo=vercel&logoColor=ffffff" alt="Portafolio" />
   </a>
+  <a href="https://wa.me/51907377938" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+  &nbsp;·&nbsp; 📍 Lima, Perú
 </p>
-
-<p align="center">📍 Lima, Perú &nbsp;|&nbsp; +51 907 377 938</p>
 
 ---
 
