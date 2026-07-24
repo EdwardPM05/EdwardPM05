@@ -64,20 +64,20 @@ Liderando el proceso de digitalización de la empresa: diseño de base de datos,
 
 ## Proyectos destacados
 
-**Nova Smart** — Sistema de gestión de operaciones de campo para HFC/FTTH
+**Nova Smart** 
 - Trabajo actual. Lidero el proceso de digitalización de la empresa: creación de la base de datos, desarrollo web y móvil, estructuración de la empresa y mejora de sus flujos operativos.
 - Arquitectura de permisos que separa roles de negocio de la visibilidad de UI por usuario.
 - Backend en Supabase, frontend en React Native.
 
-**GOYO MOTOR'S** — Sistema POS para repuestos de motos
+**GOYO MOTOR'S** — ERP
 - Lideré la digitalización integral de la empresa, desarrollando desde cero un software de gestión a medida para centralizar el control de inventario y las operaciones comerciales.
 - Módulos operativos para el ciclo de ingresos y egresos: productos, stock, cotizaciones, ventas, devoluciones y caja.
 - Arquitectura administrativa con bases de datos relacionales para clientes, proveedores, créditos y perfiles de empleados.
 - Mantenimiento continuo, despliegue de actualizaciones y optimización de rendimiento para uso diario en tienda.
 - Stack: Next.js + Firebase/PostgreSQL.
 
-**Ayni.pe** — Marketplace de servicios peruano
-- App móvil de servicios: como pedir un Uber pero en lugar de taxis, solicitas cualquier tipo de servicio.
+**Ayni.pe** 
+- App móvil de servicios
 - Dos roles: trabajadores/emprendedores que ofrecen sus servicios, y usuarios que los solicitan.
 - Proyecto colaborativo con estudiantes de la Universidad Tecnológica de Lima Sur.
 - Stack: Expo/React Native + Firebase.
