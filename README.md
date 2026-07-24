@@ -17,7 +17,6 @@
   <a href="https://wa.me/51907377938" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
   </a>
-  &nbsp;·&nbsp; 📍 Lima, Perú
 </p>
 
 ---
