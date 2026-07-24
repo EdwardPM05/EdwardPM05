@@ -20,6 +20,19 @@
 </p>
 
 ---
+## Actualmente
+
+<div align="center">
+
+### Desarrollador FullStack en **Nova Smart**
+**Distribuidor Autorizado Claro**
+
+Liderando el proceso de digitalización de la empresa: diseño de base de datos, desarrollo web y móvil, y optimización de los flujos operativos del negocio.
+
+<img src="https://img.shields.io/badge/Julio%202025%20--%20Actualidad-0d1117?style=for-the-badge" alt="periodo" />
+<img src="https://img.shields.io/badge/Stack-Supabase%20%7C%20React%20Native%20%7C%20Next.js-0d1117?style=for-the-badge" alt="stack" />
+
+</div>
 
 ## Tecnologías
 
@@ -52,41 +65,46 @@
 ## Proyectos destacados
 
 **Nova Smart** — Sistema de gestión de operaciones de campo para HFC/FTTH
-- Módulo completo de inventario/almacén con jerarquía de 4 roles (Almacén General, Subalmacenes, Supervisores, Técnicos).
-- Modelo de datos de movimientos de inventario con actualización virtual basada en confirmaciones.
+- Trabajo actual. Lidero el proceso de digitalización de la empresa: creación de la base de datos, desarrollo web y móvil, estructuración de la empresa y mejora de sus flujos operativos.
 - Arquitectura de permisos que separa roles de negocio de la visibilidad de UI por usuario.
 - Backend en Supabase, frontend en React Native.
 
-**GOYO MOTOR'S / Gestor-moto** — Sistema POS para repuestos de motos
-- Lógica de stock FIFO y sistema de crédito acumulativo por cliente.
-- Generación de PDFs (ventas, tickets, reportes de caja, créditos) con logo y layout personalizados.
-- Migración planificada a Supabase con Row Level Security.
+**GOYO MOTOR'S** — Sistema POS para repuestos de motos
+- Lideré la digitalización integral de la empresa, desarrollando desde cero un software de gestión a medida para centralizar el control de inventario y las operaciones comerciales.
+- Módulos operativos para el ciclo de ingresos y egresos: productos, stock, cotizaciones, ventas, devoluciones y caja.
+- Arquitectura administrativa con bases de datos relacionales para clientes, proveedores, créditos y perfiles de empleados.
+- Mantenimiento continuo, despliegue de actualizaciones y optimización de rendimiento para uso diario en tienda.
 - Stack: Next.js + Firebase/PostgreSQL.
 
 **Ayni.pe** — Marketplace de servicios peruano
-- App con doble rol (cliente/profesional) bajo un mismo UID.
-- Sistema de comisión oculta del 15%, pagos simulados (Yape/Plin) y verificación KYC.
-- Matching por geolocalización.
+- App móvil de servicios: como pedir un Uber pero en lugar de taxis, solicitas cualquier tipo de servicio.
+- Dos roles: trabajadores/emprendedores que ofrecen sus servicios, y usuarios que los solicitan.
+- Proyecto colaborativo con estudiantes de la Universidad Tecnológica de Lima Sur.
 - Stack: Expo/React Native + Firebase.
 
-**SIMATV** — Aplicación IPTV para Android TV
-- Reproducción con ExoPlayer/Media3, integración de EPG y navegación optimizada para control remoto.
-- UI premium dorado sobre azul marino, con almacenamiento cifrado (EncryptedSharedPreferences).
+**SIMATV** — Aplicación IPTV para Android TV y Smart TV
+- Co-desarrollo para la empresa de telecomunicaciones SIMA: streaming de canales en vivo con alta disponibilidad.
+- UI/UX nativa para pantallas grandes, con navegación controlada exclusivamente por control remoto (D-pad).
+- Integración y optimización de protocolos HLS/DASH, reduciendo la latencia y el tiempo de zapping.
+- Arquitectura para gestión de listas de canales y sincronización de la Guía Electrónica de Programación (EPG) en tiempo real.
 - Stack: Kotlin nativo.
 
 **Consultas Perú** — Herramienta de consulta DNI/RUC
-- API routes serverless, cacheo en Firestore e integración con Factiliza API.
-- Stack: Next.js + Vercel + Firebase.
+- App de búsqueda de personas mediante DNI o RUC: devuelve todos los datos asociados al documento.
+- Guarda cada búsqueda en caché (Firestore), quedando registrada en la base de datos para consultas futuras.
+- Stack: Next.js + Vercel + Firebase, integración con Factiliza API.
 
 **RESCUEMAL** — App móvil de rescate animal
-- Arquitectura híbrida Kotlin/Java, integración con Google Maps Platform para geolocalización y trazado de rutas.
-- Datos en tiempo real con Cloud Firestore y evidencias fotográficas en Firebase Storage.
+- Aplicación orientada a la problemática de animales en situación de calle, alineada con los ODS.
+- Arquitectura híbrida Kotlin/Java, integración con Google Maps Platform para geolocalización y trazado de rutas de rescate.
+- Infraestructura de datos en Firebase: Cloud Firestore para sincronización en tiempo real y Firebase Storage para evidencias fotográficas.
+- Digitalicé el proceso de rescate y adopción, sustituyendo métodos informales por una plataforma centralizada.
 
 **Herramienta CLI para Git & GitHub**
 - CLI multiplataforma en Node.js que automatiza todo el ciclo de vida de un repositorio (init, staging, commits, sync).
-- Integración con la API de GitHub para autenticación y aprovisionamiento en la nube.
-- Alias contextuales (`actualiza-edward`) para flujos de quick-push.
-
+- Flujos interactivos en terminal con readline-sync y manejo de procesos del sistema (child_process).
+- Integración con la API/CLI de GitHub (gh) para autenticación y aprovisionamiento de repositorios en la nube.
+- Alias contextuales (`gracias-edward` / `actualiza-edward`) para flujos de quick-push.
 ---
 
 ## Actividad
