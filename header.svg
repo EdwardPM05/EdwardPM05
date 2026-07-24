@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" width="840" height="320" role="img" aria-label="Edward Pittman, ingeniero de software">
+  <style>
+    .m { font-family: ui-monospace, "Cascadia Code", "Consolas", "JetBrains Mono", monospace; }
+    .prompt { fill: #58a6ff; }
+    .dim { fill: #8b949e; }
+    .txt { fill: #e6edf3; }
+    .name { fill: #ffffff; font-weight: 700; }
+    .acc { fill: #58a6ff; }
+    .acc2 { fill: #f78166; }
+    .r { opacity: 0; animation: fade .55s ease forwards; }
+    .r1 { animation-delay: .15s } .r2 { animation-delay: .45s } .r3 { animation-delay: .70s }
+    .r4 { animation-delay: 1.0s } .r5 { animation-delay: 1.25s } .r6 { animation-delay: 1.5s }
+    @keyframes fade { to { opacity: 1 } }
+    .cursor { fill: #58a6ff; animation: blink 1.1s steps(1, end) infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1 } 50.01%, 100% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) {
+      .r { opacity: 1; animation: none }
+      .cursor { animation: none }
+    }
+  </style>
+
+  <!-- ventana -->
+  <rect x="1.5" y="1.5" width="837" height="317" rx="8" fill="#0c0c0c" stroke="#2b2b2b" stroke-width="1.5"/>
+
+  <!-- barra de titulo estilo Windows -->
+  <rect x="1.5" y="1.5" width="837" height="38" rx="8" fill="#1f1f1f"/>
+  <rect x="1.5" y="30" width="837" height="10" fill="#1f1f1f"/>
+  <g class="m" fill="#c9d1d9" font-size="12.5">
+    <rect x="14" y="10" width="18" height="18" rx="3" fill="#0c0c0c" stroke="#3a3a3a"/>
+    <text x="23" y="23" text-anchor="middle" fill="#8b949e">&#62;_</text>
+    <text x="44" y="24" fill="#c9d1d9">Windows PowerShell</text>
+  </g>
+  <!-- botones minimizar / maximizar / cerrar -->
+  <g class="m" font-size="14">
+    <rect x="740" y="1.5" width="32" height="38" fill="transparent"/>
+    <text x="756" y="25" text-anchor="middle" fill="#c9d1d9">&#8722;</text>
+    <rect x="772" y="1.5" width="32" height="38" fill="transparent"/>
+    <rect x="788" y="15" width="10" height="10" fill="none" stroke="#c9d1d9" stroke-width="1.2"/>
+    <rect x="804" y="1.5" width="32" height="38" rx="8" fill="transparent"/>
+    <text x="820" y="25" text-anchor="middle" fill="#c9d1d9">&#10005;</text>
+  </g>
+
+  <line x1="1.5" y1="40" x2="838.5" y2="40" stroke="#2b2b2b" stroke-width="1.5"/>
+
+  <g class="m">
+    <text x="24" y="76" font-size="15" class="r r1"><tspan class="prompt">PS C:\Users\edward&#62;</tspan> <tspan class="txt">whoami</tspan></text>
+    <text x="24" y="134" font-size="42" class="name r r2">Edward Pittman</text>
+    <text x="24" y="166" font-size="17" class="dim r r3">ingeniero de software &#183; Lima, Per&#250;</text>
+    <text x="24" y="218" font-size="15" class="r r4"><tspan class="prompt">PS C:\Users\edward&#62;</tspan> <tspan class="txt">stack --actual</tspan></text>
+    <text x="24" y="250" font-size="16" class="r r5"><tspan class="acc">React/Next.js</tspan><tspan class="txt"> &#183; </tspan><tspan class="acc2">PostgreSQL</tspan><tspan class="txt"> &#183; Web &#183; M&#243;vil</tspan></text>
+    <text x="24" y="298" font-size="15" class="r r6"><tspan class="prompt">PS C:\Users\edward&#62;</tspan> <tspan class="txt"></tspan></text>
+    <rect class="cursor r r6" x="203" y="285" width="9" height="16" rx="1"/>
+  </g>
+</svg>
