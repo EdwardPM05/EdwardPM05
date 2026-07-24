@@ -2,12 +2,6 @@
   <img src="header.svg" alt="Edward Pittman, ingeniero de software" width="100%" />
 </div>
 
-<h3 align="center">Ingeniero de Software | Desarrollador Full Stack</h3>
-
-<p align="center">
-  Construyo productos digitales de punta a punta — web, móvil y backend — con foco en soluciones prácticas para negocios reales.
-</p>
-
 <p align="center">
   <a href="mailto:epittman341@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
