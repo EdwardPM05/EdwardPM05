@@ -6,22 +6,22 @@
 
 <p align="center">
   <a href="mailto:epittman341@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/edward-miguel-pittman-medina-81b564274/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portafolio-xi-beige.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-0d1117?style=flat-square&logo=vercel&logoColor=ffffff" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/-Portafolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://wa.me/51907377938" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Frontend**
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 **Nova Smart** — Sistema de gestión de operaciones de campo para HFC/FTTH
 - Módulo completo de inventario/almacén con jerarquía de 4 roles (Almacén General, Subalmacenes, Supervisores, Técnicos).
@@ -89,7 +89,7 @@
 
 ---
 
-## 📊 Actividad
+## Actividad
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EdwardPM05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
