@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Edward Pittman, ingeniero de software" width="100%" />
+  <img src="header.svg?v=2" alt="Edward Pittman, ingeniero de software" width="100%" />
 </div>
 
 <br />
