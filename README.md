@@ -31,7 +31,6 @@
 Uno de los primeros desarrolladores del área de Sistemas de la empresa. Diseño la arquitectura de base de datos y desarrollo su ecosistema completo: sitio web corporativo, app móvil empresarial, bandeja de atención por WhatsApp y automatización con la API de Meta.
 
 <img src="https://img.shields.io/badge/Julio%202026%20--%20Actualidad-0d1117?style=for-the-badge" alt="periodo" />
-<img src="https://img.shields.io/badge/Stack-Supabase%20%7C%20React%20Native%20%7C%20Astro-0d1117?style=for-the-badge" alt="stack" />
 
 </div>
 
